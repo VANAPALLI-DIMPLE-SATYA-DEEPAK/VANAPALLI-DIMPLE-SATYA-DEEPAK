@@ -40,7 +40,7 @@
 ---
 
 ### 📌 Featured Projects:
-- 🎯 **[Predicting Youtube Video Views Using Regression Models Based ML Models]([https://github.com/VANAPALLI-DIMPLE-SATYA-DEEPAK/Amazon-Sales-Data-Analysis](https://github.com/VANAPALLI-DIMPLE-SATYA-DEEPAK/Predicting_YouTube_Video_Views_Using_Regression_Based_Machine_Learning_Models))** – Regression Models uncover youTube success factors.
+- 🎯 **[Predicting Youtube Video Views Using Regression Models Based ML Models](https://github.com/VANAPALLI-DIMPLE-SATYA-DEEPAK/Amazon-Sales-Data-Analysis](https://github.com/VANAPALLI-DIMPLE-SATYA-DEEPAK/Predicting_YouTube_Video_Views_Using_Regression_Based_Machine_Learning_Models)** – Regression Models uncover youTube success factors.
 - 🔍 **[Coffee Quality Analysis](https://github.com/VANAPALLI-DIMPLE-SATYA-DEEPAK/Coffee-Quality-Analysis-Project)** – Power BI dashboard exploring global trends.
 - 🛍️ **[Amazon Sales Data Analysis](https://github.com/VANAPALLI-DIMPLE-SATYA-DEEPAK/Amazon-Sales-Data-Analysis)** – SQL + Excel insights to drive business strategies.
 - 🔐 **[OTP Verification System](https://github.com/VANAPALLI-DIMPLE-SATYA-DEEPAK/OTP-Verification-System-Project)** – Secure OTP Codes Ensure Safe Logins.
